@@ -10,16 +10,16 @@
    application’s performance.
 
 ## I have worked on the following tasks during the internship
-### Task One: Create a Proposal for a RESTful Web Service
+### Task 1: Create a Proposal for a RESTful Web Service
 - Explore how to use Java Spring Boot and the GreenLake cloud platform to design a RESTful web service
 
-### Task Two: Build a RESTful Web Service
+### Task 2: Build a RESTful Web Service
 - Using Java Spring Boot, build a basic RESTful Web Service that can send basic server requests.
 
-### Task Three: Implement the Ability to Upload Data
+### Task 3: Implement the Ability to Upload Data
 - Add application support for uploading JSON data
 
-### Task Four: Create Unit Tests
+### Task 4: Create Unit Tests
 - Develop a set of unit tests to assess your application’s performance
 
 
