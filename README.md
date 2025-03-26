@@ -25,4 +25,4 @@
 ---
 #### My Certificate of Completion
 
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_jDjPKCuzzjLd3fETW_1742945812204_completion_certificate.pdf"><p align= "center"><img src="https://github.com/dinesh06003/HPE-Software-Engineering-Internship/blob/da3a3c9bceba03ca4d882cc50bb8b07f78d7c020/assets/HPE-Software-Engineering-completion-certificate.pdf"></p></a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_jDjPKCuzzjLd3fETW_1742945812204_completion_certificate.pdf"><p align= "center"><img src="assets/HPE-Software-Engineering-completion-certificate.pdf"></p></a>
